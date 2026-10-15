@@ -1,0 +1,25 @@
+/* La foto ocupa todo el espacio de su columna */
+.foto {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Caja oscura */
+.caja {
+  background-color: #16261d;
+  height: 100%;
+}
+
+/* Estrellas amarillas */
+.estrellas {
+  color: #f0a92c;
+}
+
+/* Cargo en gris */
+.cargo {
+  color: #8a9a90;
+}
+.flex-container{
+ width: 800px; 
+}
